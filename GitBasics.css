@@ -1,0 +1,146 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color:rgb(221,223,212);
+	font-family: courier; 
+}
+#wrapper {
+    width: 1024px;
+    height: 750px;
+    background-color: rgb(221,223,212);
+    padding: 20px;
+    margin: 0 auto;
+}
+#header{
+    width: 1024px;
+    height: 40px;
+    background-color: rgb(63,176,172);
+    display: block;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+#gitLogo{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(63,176,172);
+    display: inline-block;
+    margin-left: 20px;
+    position: relative;
+    top: 10px;
+}
+#header h1{
+    color: black;
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 200%;
+}
+#first{
+    color: white;
+    display: inline-block;
+    vertical-align: middle; 
+    font-size: 180%;
+    margin-left: 110px;
+}
+#header h2{
+    color: white;
+    display: inline-block;
+    vertical-align: middle; 
+    font-size: 100%;
+    margin-right: 10px;
+}
+#main{
+    width: 984px;
+    height: 547px;
+    background-color: rgb(250,229,150);
+    padding: 20px;
+    display: block;
+    margin-bottom: 5px;
+}
+#main span{
+    color:rgb(85,219,203);
+}
+#main h2{
+    margin: 10px;
+}
+#main h3{
+    margin: 10px;
+}
+#main p{
+    margin-left: 20px;
+    margin-right: 25px;
+    font-weight: 700;
+}
+#leftMain{
+    width: 260px;
+    height: 547px;
+    background-color: rgb(23,63,67);
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+}
+#rightMain{
+    width: 690px;
+    height: 547px;
+    display: inline-block;
+    vertical-align: top;
+}
+#topRightMain{
+    height: 171px;
+    display: block;
+    margin-bottom: 20px;
+}
+#middleRighttMain{
+    height: 148px;
+    display: block;
+    margin-top: 40px;
+    margin-bottom: 40px;
+
+}
+#bottomRightMain{
+    width: 650px;
+    height: 138px;
+    background-color: rgb(23,63,67);  
+    display: block;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.square{
+    width: 184px;
+    height: 171px;
+    background-color: rgb(23,63,67);   
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-left: 20px;
+} 
+.rectangle{
+    width: 300px;
+    height: 148px;
+    background-color: rgb(23,63,67);   
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 20px;
+    margin-left: 20px;
+} 
+#footer{
+    width: 1024px;
+    height: 40px;
+    background-color: rgb(63,176,172);
+    display: block;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#footer h2{
+    margin: 10px;
+    color: black;
+    text-align: center;
+    font-size: 100%;
+}
+#footer a{
+    margin: 10px;
+    color: blue;
+    text-align: center;
+    font-size: 100%;
+}
